@@ -1,2 +1,2 @@
 # Desaf-o-GitHub
-Practicando GitHub avanzado
+Practicando Git y  GitHub avanzado
